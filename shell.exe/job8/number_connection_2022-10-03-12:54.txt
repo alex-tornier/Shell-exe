@@ -1,0 +1,1 @@
+972 /var/log/auth.log
